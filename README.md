@@ -14,6 +14,6 @@ I am a B.Tech student in **Computer Science and Engineering (AI & ML)** at VVIT 
 - 💬 **Ask me about:** Python, AI basics, and my journey in tech.
 
 ### Connect with me ⚡
-- 📫 **Reach me:** [Your LinkedIn Link] | [Your Email]
+- 📫 **Reach me:** https://www.linkedin.com/in/sai-charitha-peesabattula-27978730a/ | charithaammu3@gmail.com
 - 😄 **Pronouns:** She/Her
-- 🎨 **Fun fact:** [Insert a personal hobby here, e.g., "I enjoy solving puzzles or digital art!"]
+- 🎨 **Fun fact:** I enjoy solving puzzles or digital art!
