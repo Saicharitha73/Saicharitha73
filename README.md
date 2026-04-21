@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+B.Tech student in Computer Science and Engineering(Artificial Intelligence and Machine Learning) at VVIT Guntur with a strong foundation in AI concepts, data handling, and application development. Interested in building real- world solutions using machine learning and modern technologies. Actively seeking opportunities to apply technical skills, enhance industry knowledge, and contribute to impactful, user-centric projects.
 <!--
 **Saicharitha73/Saicharitha73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
